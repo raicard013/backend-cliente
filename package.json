@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "start":"ñode index.js",
+  "start":"node index.js",
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
